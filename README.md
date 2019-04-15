@@ -1,1 +1,1 @@
-TODO: Add contents for README
+In order to gain an insight into my achievements, I have made publically available marked individual assignments that I completed for the various subjects in the Masters program, including the question sheets.  In addition, a folder is included that contains a mathematical model that was created for an assignment in my undergraduate Mathematics/Statistics degree.
